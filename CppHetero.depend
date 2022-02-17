@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1644948311 source:c:\users\csongi\documents\prog2\0.zh beugro\cpphetero-master\cpphetero-master\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1644948311 c:\users\csongi\documents\prog2\0.zh beugro\cpphetero-master\cpphetero-master\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
